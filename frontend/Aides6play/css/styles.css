@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css');
+@import url('https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css');
+@import url('https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css');
+@import "fontawesome-6.6.0/css/all.min.css";
+
+
+@import "responsive-0.css" all;
+@import "responsive-576.css" all and (min-width: 576px);    /* sm  */
+/*
+@import "landscape-600.css" all and (min-width: 600px) and (max-height: 430px) and (orientation:landscape);
+@import "portrait-700.css" all and (max-height: 700px) and (orientation:portrait);
+@import "portrait-800.css" all and (min-width: 400px) and (min-height: 800px) and (orientation:portrait);
+*/
+@import "responsive-768.css" all and (min-width: 768px);    /* md  */
+/*
+@import "landscape-800.css" all and (min-width: 790px) and (max-height: 600px) and (orientation:landscape);
+@import "landscape-950.css" all and (min-width: 950px) and (orientation:landscape);
+@import "portrait-900.css" all and (min-width: 400px) and (min-height: 900px) and (orientation:portrait);
+*/
+@import "responsive-992.css" all and (min-width: 992px);    /* lg  */
+@import "responsive-1200.css" all and (min-width: 1200px);  /* xl  */
+@import "responsive-1600.css" all and (min-width: 1600px);  /* xxl  */
+@import "responsive-1920.css" all and (min-width: 1920px);  /* FHD  */
+@import "responsive-2560.css" all and (min-width: 2560px);  /* 4K   */
+
+
+@import "scaling.css" all;
+
+@import "animista.css" screen;

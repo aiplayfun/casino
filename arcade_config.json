@@ -1,0 +1,15 @@
+{
+
+"port":"22188/arcade",
+
+"host":"hoh888bet.online",
+"prefix":"https://",
+
+"host_ws":"hoh888bet.online",
+"prefix_ws":"wss://",
+
+"ssl":true,
+
+"timezone":"Asia/Singapore"
+
+}

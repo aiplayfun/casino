@@ -1,0 +1,30 @@
+:root {
+  --mv-scale-bg: 0.85;
+  --mv-scale-img: 0.95;
+  --jp-scale-bg: 0.85;
+  --jp-scale-text: 0.95;
+  --locale-scale: 1;
+  --locale-scale-text: 1;
+
+  --sn-scale: 1;
+  --sn-scale-img: 1;
+
+  --gb-scale: 1;
+  --links-scale: 1;
+  --links-scale-text: 1;
+  --profile-scale: 1;
+  --profile-scale-text: 1;
+  --promo-scale: 1;
+}
+#bottom-bar .promo-box {
+  margin-top: -170px;
+}
+#user-profile-extra {
+  margin-top: 0;
+}
+#user-profile-extra {
+  padding-left: 160px;
+}
+.side-nav-box:hover .side-btn .side-btn-txt {
+  padding-right: 30px;
+}

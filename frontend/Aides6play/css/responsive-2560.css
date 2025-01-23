@@ -1,0 +1,10 @@
+:root{
+  --mv-scale-bg: 1;
+  --mv-scale-img: 1;
+  --jp-scale-bg: 1;
+  --jp-scale-text: 1;
+}
+#main-nav-logo {
+  margin-top: 10px;
+  margin-bottom: -10px;
+}

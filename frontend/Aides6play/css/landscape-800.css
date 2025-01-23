@@ -1,0 +1,42 @@
+:root {
+  --mv-scale-bg: 0.6;
+  --mv-scale-img: 0.6;
+  --jp-scale-bg: 0.48;
+  --jp-scale-text: 0.48;
+  --promo-scale: 0.5;
+  --sn-scale: 0.4;
+  --sn-scale-img: 0.3;
+}
+#main-swiper.swiper {
+  left: 10vw;
+  top: 3vh;
+}
+.jackpot-block {
+  width: unset;
+  max-width: unset;
+}
+.jackpot-block .jackpot-box {
+  flex-wrap: nowrap;
+}
+.jackpot-block .jackpot-box span.jackpot-title {
+  margin-top: 0;
+}
+#side-nav {
+  top: 40%;
+}
+#nav-promo.promo-box {
+  display: none;
+}
+#bottom-bar .promo-box { display: block; }
+@media all and (min-height: 420px) {
+  :root {
+    --sn-scale-img: 0.35;
+    --gb-scale: 0.43;
+  }
+  #side-nav {
+    display: flex;
+  }
+  #user-profile-extra {
+    padding-left: 70px;
+  }
+}

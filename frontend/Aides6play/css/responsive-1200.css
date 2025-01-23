@@ -1,0 +1,32 @@
+:root {
+  --mv-scale-bg: 0.65;
+  --mv-scale-img: 0.75;
+  --jp-scale-bg: 0.6;
+  --jp-scale-text: 0.7;
+  --locale-scale: 0.75;
+  --locale-scale-text: 0.85;
+
+  --links-scale: 0.6;
+  --sn-scale: 0.85;
+  --sn-scale-img: 0.8;
+
+  --promo-scale: 0.68;
+}
+#main-nav {
+  height: calc(84px * var(--mv-scale-bg));
+}
+#main-nav-logo {
+  margin-right: 60px;
+}
+.navbar-expand-sm .offcanvas .offcanvas-body {
+  justify-content: flex-start;
+}
+#locale-block {
+  margin-top: 10px;
+}
+#user-profile-extra {
+  padding-left: 80px;
+}
+#extra-links {
+  width: 30vw;
+}

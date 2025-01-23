@@ -1,0 +1,6 @@
+:root {
+  --gb-scale: 0.75;
+}
+#side-nav {
+  display: flex;
+}

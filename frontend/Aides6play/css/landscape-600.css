@@ -1,0 +1,26 @@
+:root {
+  --mv-scale-bg: 0.4;
+  --mv-scale-img: 0.5;
+  --jp-scale-bg: 0.36;
+  --jp-scale-text: 0.42;
+  --gb-scale:0.38;
+  --promo-scale:0.65;
+  --sn-scale: 0.35;
+  --sn-scale-img: 0.3;
+}
+#main-nav {
+  min-height: 0;
+}
+#extra-links,
+#extra-links-side {
+  gap: 5px;
+  max-width: calc(100vw * 0.71);
+}
+#main-nav .promo-box { display: block; }
+#bottom-bar .promo-box { display: none; }
+@media all and (min-height: 359px) {
+  #side-nav {
+    top: 40%;
+    display: flex;
+  }
+}
