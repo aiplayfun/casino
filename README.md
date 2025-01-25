@@ -1,4 +1,4 @@
-# ai16play: A Comprehensive Entertainment Platform on ElizaOS 🤖
+# [OpenSource]AI16Play: A Comprehensive Entertainment Platform on ElizaOS 🤖
 ![image](https://github.com/user-attachments/assets/b26ca073-9356-44e7-819f-483a1af08476)
 
 🌍 [Website](https://ai16play.ai/)
