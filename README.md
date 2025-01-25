@@ -1,3 +1,6 @@
+
+![Uploading image.png…]()
+
 Server Setup Instructions
 
 Set up your server with the following components:
