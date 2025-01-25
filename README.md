@@ -1,7 +1,7 @@
 # [OpenSource]AI16Play: A Comprehensive Entertainment Platform on ElizaOS 🤖
 ![image](https://github.com/user-attachments/assets/b26ca073-9356-44e7-819f-483a1af08476)
 
-🌍 [Website](https://ai16play.ai/)
+🌍 [Website](https://ai16play.ai/) | 🚩 [Twitter](https://x.com/ai16play)
 
 ## ✨Server Setup Instructions**
 Set up your server with the following components:
@@ -100,7 +100,7 @@ Safety and Security: ai16play prioritizes user safety and security through rigor
 ## 🤖 5. Future Outlook
 ai16play envisions a future where AI seamlessly integrates with the entertainment industry, enhancing user experiences, addressing critical challenges, and unlocking new opportunities. The platform will continue to evolve, incorporating cutting-edge AI technologies, expanding its service offerings, and building a thriving community of users.
 
-6. Conclusion
+## 🤖 6. Conclusion
 
 ai16play represents a significant step forward in the evolution of the entertainment industry. By harnessing the power of AI, the platform aims to create a more engaging, responsible, and rewarding experience for users while addressing the inherent challenges within the gambling and sex industries. With a focus on innovation, user satisfaction, and ethical practices, ai16play is poised to become a leading force in the future of entertainment.
 
