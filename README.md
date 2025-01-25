@@ -1,17 +1,18 @@
+# ai16play: A Comprehensive Entertainment Platform on ElizaOS 🤖
 ![image](https://github.com/user-attachments/assets/b26ca073-9356-44e7-819f-483a1af08476)
 
-**Server Setup Instructions**
+🌍 [Website](https://ai16play.ai/)
 
+## ✨Server Setup Instructions**
 Set up your server with the following components:
-
-    OS: Almalinux 8 / CentOS 7 recommended
-    Apache
-    MySQL
-    PHP 8.0+
-    Laravel 10
-    Node.js 16
-    PM2
-    Redis
+- OS: Almalinux 8 / CentOS 7 recommended
+- Apache
+- MySQL
+- PHP 8.0+
+- Laravel 10
+- Node.js 16
+- PM2
+- Redis
 
 Enforce SSL for the domain.
 
