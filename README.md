@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/b26ca073-9356-44e7-819f-483a1af08476)
 
-Server Setup Instructions
+**Server Setup Instructions**
 
 Set up your server with the following components:
 
@@ -66,7 +66,7 @@ pm2 start Slots.js --watch
 
 
 
-ai16play: A Comprehensive Entertainment Platform on ElizaOS
+**ai16play: A Comprehensive Entertainment Platform on ElizaOS**
 
 Abstract
 
