@@ -1,5 +1,4 @@
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b26ca073-9356-44e7-819f-483a1af08476)
 
 Server Setup Instructions
 
