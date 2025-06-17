@@ -1,4 +1,4 @@
-# [OpenSource]AI16PLAY: A Comprehensive Entertainment Platform on ElizaOS 🤖
+# [OpenSource]AIPlay Fun: A Comprehensive Entertainment Platform on ElizaOS 🤖
 <a href="https://pictr.com/image/xu5SO8"><img src="https://pictr.com/images/2025/06/17/xu5SO8.png" alt="xu5SO8.png" border="0" /></a>
 
 🌍 [Website](https://aiplayfun.xyz/) | 🚩 [Twitter](https://x.com/aiplayfun)
