@@ -1,5 +1,5 @@
 # [OpenSource]AI16PLAY: A Comprehensive Entertainment Platform on ElizaOS 🤖
-![image](https://github.com/user-attachments/assets/b26ca073-9356-44e7-819f-483a1af08476)
+<a href="https://pictr.com/image/xu5SO8"><img src="https://pictr.com/images/2025/06/17/xu5SO8.png" alt="xu5SO8.png" border="0" /></a>
 
 🌍 [Website](https://ai16play.ai/) | 🚩 [Twitter](https://x.com/ai16play)
 
