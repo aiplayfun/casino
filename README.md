@@ -1,7 +1,7 @@
 # [OpenSource]AI16PLAY: A Comprehensive Entertainment Platform on ElizaOS 🤖
 <a href="https://pictr.com/image/xu5SO8"><img src="https://pictr.com/images/2025/06/17/xu5SO8.png" alt="xu5SO8.png" border="0" /></a>
 
-🌍 [Website](https://ai16play.ai/) | 🚩 [Twitter](https://x.com/ai16play)
+🌍 [Website](https://aiplayfun.xyz/) | 🚩 [Twitter](https://x.com/aiplayfun)
 
 ## ✨Server Setup Instructions**
 Set up your server with the following components:
